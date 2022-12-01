@@ -16,3 +16,5 @@
 08 Lorem Ipsum Live Demo: https://nextjs-lorem-ipsum-demo.netlify.app
 
 09 Color Generator Live Demo: https://nextjs-color-generator-demo.netlify.app
+
+10 Grocery Bud (Shopping List) Live Demo: https://nextjs-grocery-bud-demo.netlify.app
