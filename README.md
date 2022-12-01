@@ -13,4 +13,6 @@
 
 07 Slider Live Demo: https://nextjs-slider-demo.netlify.app
 
-08 Lorem Ipsum Demo: https://nextjs-lorem-ipsum-demo.netlify.app
+08 Lorem Ipsum Live Demo: https://nextjs-lorem-ipsum-demo.netlify.app
+
+09 Color Generator Live Demo: https://nextjs-color-generator-demo.netlify.app
