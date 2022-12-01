@@ -8,3 +8,5 @@
 04 Accordion Live Demo: https://nextjs-accordion-demo.netlify.app
 
 05 Menu Live Demo: https://nextjs-menu-demo.netlify.app
+
+06 Tabs Live Demo: https://nextjs-tabs-demo.netlify.app
