@@ -10,3 +10,5 @@
 05 Menu Live Demo: https://nextjs-menu-demo.netlify.app
 
 06 Tabs Live Demo: https://nextjs-tabs-demo.netlify.app
+
+07 Slider Live Demo: https://nextjs-slider-demo.netlify.app
