@@ -18,3 +18,5 @@
 09 Color Generator Live Demo: https://nextjs-color-generator-demo.netlify.app
 
 10 Grocery Bud (Shopping List) Live Demo: https://nextjs-grocery-bud-demo.netlify.app
+
+11 Navbar Live Demo: https://nextjs-navbar-demo.netlify.app/
