@@ -20,3 +20,5 @@
 10 Grocery Bud (Shopping List) Live Demo: https://nextjs-grocery-bud-demo.netlify.app
 
 11 Navbar Live Demo: https://nextjs-navbar-demo.netlify.app/
+
+12 Sidebar & Modal Live Demo: https://nextjs-sidebar-modal-demo.netlify.app/
