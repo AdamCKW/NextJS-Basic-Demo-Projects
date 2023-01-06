@@ -24,3 +24,5 @@
 12 Sidebar & Modal Live Demo: https://nextjs-sidebar-modal-demo.netlify.app/
 
 13 Stripe Submenu Live Demo: https://nextjs-stripe-submenu-demo.netlify.app/
+
+14 Cart Live Demo: https://nextjs-cart-demo.netlify.app/
